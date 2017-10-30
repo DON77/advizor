@@ -1,0 +1,4 @@
+// GET MAIN
+
+export const GET_MAIN_FAIL = 'GET_MAIN_FAIL';
+export const GET_MAIN_SUCCESS = 'GET_MAIN_SUCCESS';
